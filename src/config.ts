@@ -1,6 +1,7 @@
 export const SITE = {
-  title: 'JB Ingeniería Corporativa S.R.L',
-  description: 'Especialistas en imagen corporativa a escala industrial. Diseñamos, fabricamos e instalamos cada proyecto con los más altos estándares de calidad.',
+  title: 'JB Ingeniería Corporativa S.R.L | Especialistas en Imagen y Cartelería Industrial',
+  description: 'Somos expertos en imagen corporativa a escala industrial. Fabricación e instalación de cartelería, tótems, corpóreos y revestimientos para grandes marcas.',
+  keywords: 'imagen corporativa, cartelería industrial, tótems, letras corpóreas, revestimientos, fabricación de carteles, Tucumán, Argentina, JB ingeniería',
   url: 'https://jbingenieriacorporativa.com',
   author: 'JB Ingeniería',
 };
